@@ -1,2 +1,2 @@
 # Rachel Szeto' Tableau Porfolio
-# Hello! Welcome to my Tableau porfolio! 
+Hello! Welcome to my Tableau porfolio! 
